@@ -5,11 +5,10 @@ I'm a solutions consultant at Gatling, specializing in exploration and implement
 # Technologies I Use
 
 ### Cloud-Native Technologies
-![AWS Logo](https://github.com/karimatwa/karimatwa/assets/10470268/4aff52af-2395-4055-b686-4b78d1276393){width=100 height=100}
-![Azure Logo](https://github.com/karimatwa/karimatwa/assets/10470268/919cfeed-47cc-4cf5-baba-e5cf0ec68954){width=100 height=100}
-![GCP Logo](https://github.com/karimatwa/karimatwa/assets/10470268/97d3198f-0575-4399-b610-d8d0f604950a){width=100 height=100}
+<img src="https://github.com/karimatwa/karimatwa/assets/10470268/4aff52af-2395-4055-b686-4b78d1276393" alt="AWS Logo" width="100" height="100">
+<img src="https://github.com/karimatwa/karimatwa/assets/10470268/919cfeed-47cc-4cf5-baba-e5cf0ec68954" alt="Azure Logo" width="100" height="100">
+<img src="https://github.com/karimatwa/karimatwa/assets/10470268/97d3198f-0575-4399-b610-d8d0f604950a" alt="GCP Logo" width="100" height="100">
 
 ### Programming Languages
-![Java Logo](https://github.com/karimatwa/karimatwa/assets/10470268/c9b86b60-84ff-46a8-8a7a-7cfa4abe70ce){width=100 height=100}
-![JavaScript Logo](https://github.com/karimatwa/karimatwa/assets/10470268/d3e53474-0371-4eb6-a504-f249d6074999){width=100 height=100}
-
+<img src="https://github.com/karimatwa/karimatwa/assets/10470268/c9b86b60-84ff-46a8-8a7a-7cfa4abe70ce" alt="Java Logo" width="100" height="100">
+<img src="https://github.com/karimatwa/karimatwa/assets/10470268/d3e53474-0371-4eb6-a504-f249d6074999" alt="JavaScript Logo" width="100" height="100">

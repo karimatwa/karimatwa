@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-I'm a solutions consultant at Gatling, specializing in exploration and implementation of innovative tools, solutions & proof-of-concepts.
+I'm a solutions engineer at Gatling, specializing in exploration and implementation of innovative tools, solutions & proof-of-concepts.
 
 # Technologies & Programming Languages I Use
 - Gatling

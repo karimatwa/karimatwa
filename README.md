@@ -7,7 +7,7 @@ I'm a solutions engineer at Gatling, specializing in the exploration, implementa
 - Azure
 - GCP
 - Terraform
-- Serverless Application Model
+- AWS Serverless Application Model
 - Docker
 - Kubernetes
 
